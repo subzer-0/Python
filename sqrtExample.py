@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jun  8 11:47:19 2016
-
-@author: ericgrimson
-"""
-
 ans = 0
 neg_flag = False
 x = int(input("Enter an integer: "))

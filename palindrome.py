@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Jun  8 12:33:30 2016
-
-@author: ericgrimson
-"""
 
 def isPalindrome(s):
 

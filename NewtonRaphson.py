@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Jun  8 12:14:22 2016
-
-@author: ericgrimson
-"""
 
 epsilon = 0.01
 y = 54.0

@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed May 18 08:10:59 2016
-
-@author: ericgrimson
-"""
-
 class MITPerson(Person):
     nextIdNum = 0 # next ID number to assign
 

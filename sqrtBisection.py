@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jun  8 12:01:04 2016
-
-@author: ericgrimson
-"""
-
 x = 25
 epsilon = 0.01
 numGuesses = 0

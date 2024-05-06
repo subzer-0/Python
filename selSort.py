@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed May 18 20:32:38 2016
-
-@author: ericgrimson
-"""
 
 def selSort(L):
     for i in range(len(L) - 1):

@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jun 11 11:14:45 2016
-
-@author: ericgrimson
-"""
 
 class Animal(object):
     def __init__(self, age):

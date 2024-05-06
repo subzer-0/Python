@@ -1,10 +1,3 @@
-.37# -*- coding: utf-8 -*-
-"""
-Created on Wed Jun  8 12:13:04 2016
-
-@author: ericgrimson
-"""
-
 x = float(input('Enter a decimal number between 0 and 1: '))
 
 p = 0

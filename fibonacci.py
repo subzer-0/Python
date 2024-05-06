@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jun  8 19:29:10 2016
-
-@author: ericgrimson
-"""
-
 def fib(n):
     if n == 1:
         return 1

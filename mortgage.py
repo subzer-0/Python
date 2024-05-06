@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Jun  5 11:59:44 2016
-
-@author: ericgrimson
-"""
 
 def findPayment(loan, r, m):
     """Assumes: loan and r are floats, m an int

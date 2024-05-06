@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jun  8 11:23:28 2016
 
-@author: ericgrimson
-"""
 
 x = 5
 ans = 0

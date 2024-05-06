@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed May 18 08:14:58 2016
-
-@author: ericgrimson
-"""
-
 class Student(MITPerson):
     pass
 

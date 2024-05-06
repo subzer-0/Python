@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jun 12 14:28:55 2016
 
-@author: ericgrimson
-"""
 
 import pylab as plt
 

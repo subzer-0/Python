@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jun  8 12:31:42 2016
-
-@author: ericgrimson
-"""
 
 def printMove(fr, to):
     print('move from ' + str(fr) + ' to ' + str(to))

@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jun  8 19:24:14 2016
-
-@author: ericgrimson
-"""
 
 def applyToEach(L, f):
     """assumes L is a list, f a function

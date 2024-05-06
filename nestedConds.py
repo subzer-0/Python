@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Jun  8 11:07:33 2016
-
-@author: ericgrimson
-"""
 
 if x%2 == 0:
     if x%3 == 0:

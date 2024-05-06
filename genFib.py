@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May 19 08:44:36 2016
-
-@author: ericgrimson
-"""
-
 def genFib():
     fibn_1 = 1 #fib(n-1)
     fibn_2 = 0 #fib(n-2)

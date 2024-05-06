@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jun 11 15:13:22 2016
-
-@author: ericgrimson
-"""
 
 class Professor(MITPerson):
     def __init__(self, name, department):

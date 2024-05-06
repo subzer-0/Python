@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May 10 08:18:02 2016
-
-@author: WELG
-"""
-
 class Coordinate(object):
     def __init__(self, x, y):
         self.x = x

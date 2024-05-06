@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed May 18 07:51:28 2016
-
-@author: ericgrimson
-"""
 
 import datetime
 

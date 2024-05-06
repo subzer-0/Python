@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jun  9 08:24:52 2016
-
-@author: WELG
-"""
-
 class Animal(object):
     def __init__(self, age):
         self.age = age

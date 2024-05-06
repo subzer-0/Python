@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed May 18 08:13:18 2016
-
-@author: ericgrimson
-"""
-
 class UG(MITPerson):
     def __init__(self, name, classYear):
         MITPerson.__init__(self, name)

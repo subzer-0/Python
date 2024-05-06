@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jun 12 13:33:39 2016
-
-@author: ericgrimson
-"""
-
 import pylab as plt
 
 def fib(n):

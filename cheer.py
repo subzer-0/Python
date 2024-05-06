@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jun  8 11:51:57 2016
-
-@author: ericgrimson
-"""
 an_letters = "aefhilmnorsxAEFHILMNORSX"
 
 word = input("I will cheer for you! Enter a word: ")

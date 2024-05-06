@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Jun  5 12:04:18 2016
-
-@author: ericgrimson
-"""
 
 from mortgage import *
 

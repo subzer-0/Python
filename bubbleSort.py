@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jun 14 14:06:53 2016
-
-@author: WELG
-"""
-
 def bubble_sort(L):
     swap = False
     while not swap:

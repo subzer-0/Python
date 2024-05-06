@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jun 10 13:03:44 2016
-
-@author: ericgrimson
-"""
-
 def find_elem_recur(e, L):
     if L == []:
         return False

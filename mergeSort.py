@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed May 18 20:34:31 2016
 
-@author: ericgrimson
-"""
 import operator
 
 def mergeSort(L, compare = operator.lt):

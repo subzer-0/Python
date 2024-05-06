@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed May 18 08:26:58 2016
 
-@author: ericgrimson
-"""
 
 class Grades(object):
     """A mapping from students to a list of grades"""

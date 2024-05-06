@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jun  8 12:08:31 2016
-
-@author: ericgrimson
-"""
-
 cube = 54
 epsilon = 0.01
 num_guesses = 0

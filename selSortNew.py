@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jun 21 22:49:10 2016
-
-@author: ericgrimson
-"""
 
 def selection_sort(L):
     suffixStart = 0

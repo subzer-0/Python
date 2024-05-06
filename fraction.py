@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jun  4 19:51:18 2016
-
-@author: ericgrimson
-"""
-
 class fraction(object):
     def __init__(self, numer, denom):
         self.numer = numer

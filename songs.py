@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jun  9 10:17:41 2016
-
-@author: WELG
-"""
-
 def lyrics_to_frequencies(lyrics):
     myDict = {}
     for word in lyrics:

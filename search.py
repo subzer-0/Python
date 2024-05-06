@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed May 18 20:26:49 2016
-
-@author: ericgrimson
-"""
-
 def search(L, e):
     def bSearch(L, e, low, high):
         if high == low:

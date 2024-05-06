@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jun 21 22:34:32 2016
-
-@author: ericgrimson
-"""
-
 def genSubsets(L):
     res = []
     if len(L) == 0:
